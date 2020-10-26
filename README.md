@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushkac" alt="dhanushkac" /> </p>
 
-- 👾 I’m currently working on [Awesome Polls](https://github.com/dhanushkac/Awesome-Polls)
+- 👾 I’m currently working on [Awesome Polls](https://github.com/dhanushkac/Awesome-Polls) Contributions are welcome 🧡
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`
 - 🌱 I’m currently learning React, Angular, Go, AWS
 - 👯 I’m looking to collaborate on React, Vue
