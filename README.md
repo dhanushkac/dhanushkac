@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👦
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushkac" alt="dhanushkac" /> </p>
+
+- 🔭 I’m currently working on [Awesome Polls](https://github.com/dhanushkac/Awesome-Polls)
+- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`
+- 🌱 I’m currently learning React, Angular, Go, AWS
+- 👯 I’m looking to collaborate on React, Vue
+- 💬 Ask me about Javascript, Typescript, React, Java, mockito, assertJ
+- 📫 How to reach me: [@_dhanushkac](https://twitter.com/_dhanushkac)
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/dhanushkac/">LinkedIn</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://dhanushka.dev/">dhanushka.dev</a>
+- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/_dhanushkac">Twitter</a>
+- ✒️ Writing about tech & dev on <a href="https://diarybydhanushka.dev/">Diary by Dhanushka</a>
+- 🎬 Creating content on YouTube on <a href="https://www.youtube.com/channel/UCM2zpy5ZLgzFVCbUDsrSUaQ">Dev Diary by dhanushka</a>
 
 <!--
-**dhanushkac/dhanushkac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
