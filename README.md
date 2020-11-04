@@ -2,7 +2,7 @@
 
 - 👾 I’m currently working on [Awesome Polls](https://github.com/dhanushkac/Awesome-Polls) & Contributions are welcome 🧡
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`
-- 🌱 I’m currently learning React, Angular, Go, AWS
+- 🌱 I’m currently learning Angular, Kotlin, Go, AWS
 - 👯 I’m looking to collaborate on React, Vue
 - 🎤 I love sharing knowledge with the community via public speaking
 - 💬 Ask me about Javascript, Typescript, React.js, Java, mockito, assertJ, MongoDB, Firebase
