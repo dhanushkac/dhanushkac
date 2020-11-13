@@ -12,7 +12,7 @@
 #### Find me around the web 🌎
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/dhanushkac/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://dhanushka.dev/">dhanushka.dev</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/_dhanushkac">Twitter</a>
+- 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/_dhanushkac">Twitter</a>
 - ✒️ Writing about tech & dev on <a href="https://diarybydhanushka.dev/">Diary by Dhanushka</a>
 - 🎬 Creating content on YouTube on <a href="https://www.youtube.com/channel/UCM2zpy5ZLgzFVCbUDsrSUaQ">Dev Diary by dhanushka</a>
 - 🎙️ Hosting podcasts on [Voice Podcast](http://voice.foss.lk/)
