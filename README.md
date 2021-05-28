@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on React, Vue
 - 🎤 I love sharing knowledge with the community via public speaking
 - 💬 Ask me about Javascript, Typescript, React.js, Java, mockito, assertJ, MongoDB, Firebase
-- 📫 How to reach me: [dhanushka.c@hotmail.com](mailto:dhanushka.c@hotmail.com)
+- 📫 How to reach me: [dhanushka.c.me@gmail.com](mailto:dhanushka.c.me@gmail.com)
 - ⚡ Fun fact: Hiking ⛰️ Dog Lover 🐶 
 
 #### Find me around the web 🌎
