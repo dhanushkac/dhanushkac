@@ -1,9 +1,8 @@
 ## Hi there 👦
 
-- 👾 I’m currently working on [Awesome Polls](https://github.com/dhanushkac/Awesome-Polls) & Contributions are welcome 🧡
-- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`
-- 🌱 I’m currently learning Angular, Kotlin, Go, AWS
-- 👯 I’m looking to collaborate on React, Vue
+- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`, `.rb`
+- 🌱 I’m currently learning Kotlin, Go, AWS, Ruby on Rails
+- 👯 I’m looking to collaborate on React, Vue, Java, Javascript
 - 🎤 I love sharing knowledge with the community via public speaking
 - 💬 Ask me about Javascript, Typescript, React.js, Java, mockito, assertJ, MongoDB, Firebase
 - 📫 How to reach me: [dhanushka.c.me@gmail.com](mailto:dhanushka.c.me@gmail.com)
