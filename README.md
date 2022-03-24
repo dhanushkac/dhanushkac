@@ -1,6 +1,6 @@
 ## Hi there 👦
 
-- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.json`, `.jsx`, `.scss`, `.css`, `.rb`
+- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.jsx`, `.scss`, `.css`, `.rb`
 - 🌱 I’m currently learning Kotlin, Go, AWS, Ruby on Rails
 - 👯 I’m looking to collaborate on React, Vue, Java, Javascript
 - 🎤 I love sharing knowledge with the community via public speaking
