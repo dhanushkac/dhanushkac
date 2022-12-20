@@ -14,4 +14,3 @@
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/_dhanushkac">Twitter</a>
 - ✒️ Writing about tech & dev on <a href="https://diarybydhanushka.dev/">Diary by Dhanushka</a>
 - 🎬 Creating content on YouTube on <a href="https://www.youtube.com/channel/UCM2zpy5ZLgzFVCbUDsrSUaQ">Dev Diary by dhanushka</a>
-- 🎙️ Hosting podcasts on [Voice Podcast](http://voice.foss.lk/)
