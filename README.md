@@ -13,4 +13,4 @@
 - 🌐 Updating my personal website with examples of my work on <a href="https://dhanushka.dev/">dhanushka.dev</a>
 - 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/_dhanushkac">Twitter</a>
 - ✒️ Writing about tech & dev on <a href="https://diarybydhanushka.dev/">Diary by Dhanushka</a>
-- 🎬 Creating content on YouTube on <a href="https://www.youtube.com/channel/UCM2zpy5ZLgzFVCbUDsrSUaQ">Dev Diary by dhanushka</a>
+- 🎬 Creating content on YouTube on <a href="https://www.youtube.com/channel/UCM2zpy5ZLgzFVCbUDsrSUaQ">Dev Diary by dhanushka</a> & <a href="https://www.youtube.com/@dev.outpost">Outpost Dev</a>
