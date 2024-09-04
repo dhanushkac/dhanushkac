@@ -1,12 +1,12 @@
 ## Hi there 👦
 
-- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.jsx`, `.scss`, `.css`, `.rb`
-- 🌱 I’m currently learning Kotlin, Go, AWS, Ruby on Rails
-- 👯 I’m looking to collaborate on React, Vue, Java, Javascript
+- ⚙️ I use daily: `.java`, `.ts`, `.tsx`, `.scss`
+- 🌱 I’m currently learning Kotlin, Go, AWS & .NET
+- 👯 I’m looking to collaborate on React, Java, Javascript
 - 🎤 I love sharing knowledge with the community via public speaking
-- 💬 Ask me about Javascript, Typescript, React.js, Java, mockito, assertJ, MongoDB, Firebase
+- 💬 Ask me about Full-stack development & software architecture
 - 📫 How to reach me: [dhanushka.c.me@gmail.com](mailto:dhanushka.c.me@gmail.com)
-- ⚡ Fun fact: Hiking ⛰️ Dog Lover 🐶 
+- ⚡ Fun fact: Cycling 🚴 Hiking ⛰️ Dog Lover 🐶 
 
 #### Find me around the web 🌎
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/dhanushkac/">LinkedIn</a>
