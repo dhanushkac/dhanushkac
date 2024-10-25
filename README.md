@@ -1,6 +1,6 @@
 ## Hi there 👦
 
-- ⚙️ I use daily: `.java`, `.ts`, `.tsx`, `.scss`
+- ⚙️ I use daily: `.java`, `.ts`, `.tsx`
 - 🌱 I’m currently learning Kotlin, Go, AWS & .NET
 - 👯 I’m looking to collaborate on React, Java, Javascript
 - 🎤 I love sharing knowledge with the community via public speaking
